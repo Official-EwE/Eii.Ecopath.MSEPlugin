@@ -214,4 +214,5 @@
   <ItemGroup>
     <None Include="..\README.md" Pack="True" PackagePath="\" />
     <None Include="..\EII_plain_128x128.png" Pack="True" PackagePath="\" />
+    <None Update="Eii.Ecopath.MSEPlugin.targets" Pack="True" PackagePath="build\;buildTransitive\" />
   </ItemGroup></Project>
